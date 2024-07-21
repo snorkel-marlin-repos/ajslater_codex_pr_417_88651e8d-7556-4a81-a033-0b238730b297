@@ -1,0 +1,6 @@
+coverage
+components.d.ts
+dist
+public
+node_modules
+webpack-stats.json
